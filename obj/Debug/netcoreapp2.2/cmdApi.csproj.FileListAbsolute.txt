@@ -1,0 +1,14 @@
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\bin\Debug\netcoreapp2.2\cmdApi.deps.json
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\bin\Debug\netcoreapp2.2\cmdApi.runtimeconfig.json
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\bin\Debug\netcoreapp2.2\cmdApi.runtimeconfig.dev.json
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\bin\Debug\netcoreapp2.2\cmdApi.dll
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\bin\Debug\netcoreapp2.2\cmdApi.pdb
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\obj\Debug\netcoreapp2.2\cmdApi.csprojAssemblyReference.cache
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\obj\Debug\netcoreapp2.2\cmdApi.csproj.CoreCompileInputs.cache
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\obj\Debug\netcoreapp2.2\cmdApi.RazorAssemblyInfo.cache
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\obj\Debug\netcoreapp2.2\cmdApi.RazorAssemblyInfo.cs
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\obj\Debug\netcoreapp2.2\cmdApi.AssemblyInfoInputs.cache
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\obj\Debug\netcoreapp2.2\cmdApi.AssemblyInfo.cs
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\obj\Debug\netcoreapp2.2\cmdApi.RazorTargetAssemblyInfo.cache
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\obj\Debug\netcoreapp2.2\cmdApi.dll
+C:\Users\JulioD07\Desktop\PROYECTOS_WEB\NETCORE_PROJECTS\cmdApi\obj\Debug\netcoreapp2.2\cmdApi.pdb
